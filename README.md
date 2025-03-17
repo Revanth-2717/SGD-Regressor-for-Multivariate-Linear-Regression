@@ -70,15 +70,8 @@ print("\nPredictions:\n",Y_pred[:5])
 ```
 
 ## Output:
-## Mean Sqaured Error: 2.5464944022481797
 
-## Predictions:
- [[ 1.07950904 35.79410759]
- [ 1.51183585 35.77991986]
- [ 2.33422076 35.5771072 ]
- [ 2.67608454 35.39793682]
- [ 2.09214484 35.66633477]]
-
+![Screenshot 2025-03-17 103949](https://github.com/user-attachments/assets/f1cfaa21-d469-44a6-b118-59fe490b7346)
 
 ## Result:
 Thus the program to implement the multivariate linear regression model for predicting the price of the house and number of occupants in the house with SGD regressor is written and verified using python programming.
